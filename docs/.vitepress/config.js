@@ -8,7 +8,7 @@ export default {
       { text: 'My Work', link: '/index' },
       { text: 'Download', link: '/index' }
     ],
-    base: '/better-on-bedrock/',
+    base: '/better-bedrock/',
     siteTitle: 'Better on Bedrock',
     logo: '/images/logo.png',
     footer: {
