@@ -1,6 +1,7 @@
 export default {
   title: 'Better On Bedrock',
   description: 'The official Add-On site!.',
+  base: '/better-bedrock/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/better-bedrock/index' },
@@ -8,7 +9,6 @@ export default {
       { text: 'My Work', link: '/better-bedrock/index' },
       { text: 'Download', link: '/better-bedrock/index' }
     ],
-    base: '/better-bedrock/',
     siteTitle: 'Better on Bedrock',
     logo: '/images/logo.png',
     footer: {
