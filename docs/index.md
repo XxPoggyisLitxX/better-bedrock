@@ -19,15 +19,15 @@ hero:
   text: Add-On official website.
   tagline: 
   image:
-    src: /images/logo.png
+    src: /assets/logo.d073a993.png
     alt: VitePress
   actions:
     - theme: brand
       text: About
-      link: /how-to
+      link: /better-bedrock/how-to
     - theme: alt
       text: How-To
-      link: /better-on-bedrock-wiki    
+      link: /better-bedrock/better-on-bedrock-wiki    
 
 
 ---

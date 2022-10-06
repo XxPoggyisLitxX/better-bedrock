@@ -3,10 +3,10 @@ export default {
   description: 'Just playing around.',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/index' },
-      { text: 'About', link: '/how-to' },
-      { text: 'My Work', link: '/index' },
-      { text: 'Download', link: '/index' }
+      { text: 'Home', link: '/better-bedrock/index' },
+      { text: 'About', link: '/better-bedrock/how-to' },
+      { text: 'My Work', link: '/better-bedrock/index' },
+      { text: 'Download', link: '/better-bedrock/index' }
     ],
     base: '/better-bedrock/',
     siteTitle: 'Better on Bedrock',
