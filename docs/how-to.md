@@ -18,10 +18,11 @@ Join the Bedrock Wiki to learn and make your first Add-On!
 
 ## What is it?
 
-# Main Features
-
 Better on Bedrock is a Minecraft Bedrock Edition Add-On that aims to improve Bedrock Edition. It adds many new features like overhauling biomes, new usefull items and adding new mobs.
 
+
+
+# Main Features
 
 <h2></h2>
 
@@ -43,7 +44,6 @@ Better on Bedrock aims to add items that won't be useless. Minecraft already has
 
 
 ## Features
-# Main Features
 
 When playing Better on Bedrock you will encounter unique systems. One of which is the Bounty System. This system will allow you to do side mission to earn extra rewards to keep you intrested in gameplay.
 
