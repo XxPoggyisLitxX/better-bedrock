@@ -16,10 +16,10 @@ features:
 hero:
 
   name: Better on Bedrock
-  text: Add-On official website.
+  text: Official Add-On Site.
   tagline: 
   image:
-    src: /assets/logo.d073a993.png
+    src: /images/logo.png
     alt: VitePress
   actions:
     - theme: brand

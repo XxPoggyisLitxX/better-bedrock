@@ -22,11 +22,12 @@ Join the Bedrock Wiki to learn and make your first Add-On!
 
 Better on Bedrock is a Minecraft Bedrock Edition Add-On that aims to improve Bedrock Edition. It adds many new features like overhauling biomes, new usefull items and adding new mobs.
 
+
 <h2></h2>
 
 Better on Bedrock is designed to feel Vanilla. This means that all mobs, textures and behaviors will feel in place and feel Minecrafty.
 
-<img src="./images/logo.png"
+<img src="./images/gameplay-birch.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
@@ -35,7 +36,7 @@ Better on Bedrock is designed to feel Vanilla. This means that all mobs, texture
 
 Better on Bedrock aims to add items that won't be useless. Minecraft already has too many items that are useless but Better on Bedrock changes that!
 
-<img src="./images/logo.png"
+<img src="./images/gameplay-beach.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
@@ -46,7 +47,7 @@ Better on Bedrock aims to add items that won't be useless. Minecraft already has
 
 When playing Better on Bedrock you will encounter unique systems. One of which is the Bounty System. This system will allow you to do side mission to earn extra rewards to keep you intrested in gameplay.
 
-<img src="./images/logo.png"
+<img src="./images/forest.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
@@ -55,7 +56,7 @@ When playing Better on Bedrock you will encounter unique systems. One of which i
 
 You might find a rare monument in the Overworld that contains a Waystone. Waystones can be used to teleport to any point but they consume levels.
 
-<img src="./images/logo.png"
+<img src="./images/gameplay-waystone.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
