@@ -24,10 +24,10 @@ hero:
   actions:
     - theme: brand
       text: About
-      link: /better-bedrock/how-to
+      link: /how-to
     - theme: alt
       text: How-To
-      link: /better-bedrock/better-on-bedrock-wiki    
+      link: /better-on-bedrock-wiki    
 
 
 ---
