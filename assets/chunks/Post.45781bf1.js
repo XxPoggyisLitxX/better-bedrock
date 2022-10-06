@@ -1,0 +1,1 @@
+import{_ as o,o as _,c,d as e,t as a,r as n}from"../app.a5aa0197.js";const d={class:"post"},i=["href"],r={class:"title"},l={class:"description"},p={__name:"Post",props:["title","link"],setup(t){return(s,f)=>(_(),c("div",d,[e("a",{href:t.link},[e("p",r,a(t.title),1)],8,i),e("p",l,[n(s.$slots,"default",{},void 0,!0)])]))}},h=o(p,[["__scopeId","data-v-0d41f0ec"]]);export{h as P};
