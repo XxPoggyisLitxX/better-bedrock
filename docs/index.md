@@ -36,7 +36,7 @@ hero:
 import Post from './components/Post.vue'
 </script>
 
-<post align="center" title="Check my other work!" link="https://mcpedl.com/player-corpse/">
+<post align="center" src="./images/plater_corpse_update_new.png" title="Check my other work!" link="https://mcpedl.com/player-corpse/">
 <p align="center">
    <img src="./images/plater_corpse_update_new.png"
 	alt="alternative text"
