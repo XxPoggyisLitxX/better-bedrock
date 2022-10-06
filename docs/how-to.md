@@ -56,7 +56,7 @@ When playing Better on Bedrock you will encounter unique systems. One of which i
 
 You might find a rare monument in the Overworld that contains a Waystone. Waystones can be used to teleport to any point but they consume levels.
 
-<img src="./images/gameplay-waystone.png"
+<img src="./images/waystone-gameplay.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
