@@ -1,6 +1,6 @@
 export default {
   title: 'Better On Bedrock',
-  description: 'Just playing around.',
+  description: 'The official Add-On site!.',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/index' },
