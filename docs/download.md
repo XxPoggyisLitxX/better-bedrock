@@ -17,8 +17,14 @@ hero:
 
 ---
 
-<div>
-  <button style="background-color:blue; border:10px; color:white; padding:12px 30px;">Button</button>
+
+<div align="center">
+<a href="./docs/images/logo.png" style="display:block; background-color:blue;padding:12px 30px; text-align: centre; 
+border-radius: 100px;
+color:white;
+width:25%"
+align="center"
+download>Download</a>
 </div>
 
 <script setup>
