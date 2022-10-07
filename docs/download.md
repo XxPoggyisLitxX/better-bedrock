@@ -12,20 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Download
-      link: /docs/images/logo.png 
+      link: /404 
 
 
 ---
-
-
-<div align="center">
-<a href="./docs/images/logo.png" style="display:block; background-color:blue;padding:12px 30px; text-align: centre; 
-border-radius: 100px;
-color:white;
-width:25%"
-align="center"
-download>Download</a>
-</div>
 
 <script setup>
 import Post from './components/Post.vue'
