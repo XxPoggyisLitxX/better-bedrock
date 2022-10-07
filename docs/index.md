@@ -19,7 +19,7 @@ hero:
   text: Official Add-On Site.
   tagline: 
   image:
-    src: ./images/logo.png
+    src: images/logo.png
     alt: VitePress
   actions:
     - theme: brand
