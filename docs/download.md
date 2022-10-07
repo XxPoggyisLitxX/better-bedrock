@@ -9,11 +9,14 @@ hero:
   image:
     src: ./images/logo.png
     alt: VitePress
+  actions:
+    - theme: brand
+      text: Download
+      link: /docs/images/logo.png 
+
 
 ---
 
-
-<template>
 <div>
   <b-button pill>Button</b-button>
   <b-button pill variant="primary">Button</b-button>
@@ -22,11 +25,9 @@ hero:
   <b-button pill variant="outline-danger">Button</b-button>
   <b-button pill variant="info">Button</b-button>
 </div>
-</template>
 
 <script setup>
 import Post from './components/Post.vue'
-inport MDBBtn from './components/Button.vue'
 </script>
 
 <post align="center" title="Check my other work!" link="https://mcpedl.com/player-corpse/">
