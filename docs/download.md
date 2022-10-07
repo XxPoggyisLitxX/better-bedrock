@@ -7,7 +7,7 @@ hero:
   text: Download the Add-On and play Today!
   tagline: 
   image:
-    src: /images/logo.png
+    src: ./images/logo.png
     alt: VitePress
   actions:
     - theme: brand
