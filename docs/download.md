@@ -12,12 +12,12 @@ hero:
   actions:
     - theme: brand
       text: Download
-      link: /index  
+      link: /docs/images/logo.png 
 
 
 ---
 
-<a href="./images/logo.png" download="">Download</a>
+
 
 <script setup>
 import Post from './components/Post.vue'
