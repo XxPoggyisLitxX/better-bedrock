@@ -1,3 +1,12 @@
+<script setup>
+    // Here we're using the composition API with the <script setup> feature.
+    // Everything in this script runs in the Vue component's setup function and
+    // any declared variables can be accessed from the component's template.
+    
+    // defineProps lets you access the component's props from the setup function.
+    import { defineProps } from 'vue'
+    
+    </script>
     
     <template>
     <div class="post">
