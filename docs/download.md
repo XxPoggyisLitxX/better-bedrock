@@ -17,6 +17,8 @@ hero:
 
 ---
 
+<a href="./images/logo.png" download="">Download</a>
+
 <script setup>
 import Post from './components/Post.vue'
 </script>

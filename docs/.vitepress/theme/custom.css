@@ -51,14 +51,14 @@
     --vp-c-indigo-dark: #1d2f3f;
     --vp-c-indigo-darker: #14212e;
   
-    --vp-c-green: #8533ff;
-    --vp-c-green-light: #9148ff;
-    --vp-c-green-lighter: #9955ff;
-    --vp-c-green-dark: #7a21ff;
-    --vp-c-green-darker: #6e17f0;
-    --vp-c-green-dimm-1: rgba(105, 66, 184, 0.5);
-    --vp-c-green-dimm-2: rgba(153, 0, 255, 0.25);
-    --vp-c-green-dimm-3: rgba(136, 0, 255, 0.05);
+    --vp-c-green: #425eb8;
+    --vp-c-green-light: #4283d3;
+    --vp-c-green-lighter: #358aeb;
+    --vp-c-green-dark: #336da0;
+    --vp-c-green-darker: #15565f;
+    --vp-c-green-dimm-1: rgba(66, 111, 184, 0.5);
+    --vp-c-green-dimm-2: rgba(66, 109, 184, 0.25);
+    --vp-c-green-dimm-3: rgba(66, 133, 184, 0.05);
   
     --vp-c-yellow: #ffc517;
     --vp-c-yellow-light: #fcd253;
