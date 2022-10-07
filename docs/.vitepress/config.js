@@ -10,7 +10,7 @@ export default {
       { text: 'Download', link: '/download' }
     ],
     siteTitle: 'Better on Bedrock',
-    logo: '/images/logo.png',
+    logo: './images/logo.png',
     footer: {
       message: 'Better on Bedrock still in development.',
       copyright: 'Copyright © 2022-XxPoggyisLitxX'
