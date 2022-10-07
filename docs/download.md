@@ -17,7 +17,9 @@ hero:
 
 ---
 
-
+<script setup>
+import Button from './components/Button.vue'
+</script>
 
 <script setup>
 import Post from './components/Post.vue'
