@@ -18,7 +18,7 @@ hero:
 ---
 
 <div>
-  <button pill>Button</button>
+  <button>Button</button>
 </div>
 
 <script setup>
