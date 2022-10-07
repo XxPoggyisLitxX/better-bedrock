@@ -7,7 +7,7 @@ export default {
       { text: 'Home', link: '/index' },
       { text: 'About', link: '/how-to' },
       { text: 'My Work', link: '/index' },
-      { text: 'Download', link: '/index' }
+      { text: 'Download', link: '/download' }
     ],
     siteTitle: 'Better on Bedrock',
     logo: '/images/logo.png',
