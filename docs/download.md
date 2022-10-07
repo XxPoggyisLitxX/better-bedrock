@@ -32,3 +32,7 @@ import Button from './components/Button.vue'
   style="border-radius: 10px; outline-style: solid; outline-color:black">
 </p>
 </post>
+
+<button>
+
+</button>
