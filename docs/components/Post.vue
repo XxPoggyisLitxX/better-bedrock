@@ -7,12 +7,12 @@
 import { defineProps } from 'vue'
 
 // Set the props as variables so we can access them in the template.
-const { title, link, image } = defineProps(['title', 'link', 'image'])
+const { title, link } = defineProps(['title', 'link'])
 </script>
 
 <template>
 <div class="post">
-  <a :href="link"> <img src="image"> <p class="title">{{ title }}</p></a>
+  <a :href="link"><p class="title">{{ title }}</p></a>
   <p class="description"><slot></slot></p>
 </div>
 </template>
