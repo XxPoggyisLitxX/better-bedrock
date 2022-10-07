@@ -18,7 +18,7 @@ hero:
 ---
 
 <div>
-  <button>Button</button>
+  <button style="background-color:blue; border:10px; color:white; padding:12px 30px;">Button</button>
 </div>
 
 <script setup>
