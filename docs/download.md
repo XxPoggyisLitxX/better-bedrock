@@ -17,12 +17,10 @@ hero:
 
 ---
 
-<script setup>
-import Button from './components/Button.vue'
-</script>
 
 <script setup>
 import Post from './components/Post.vue'
+import Button from './components/Button.vue'
 </script>
 
 <post align="center" title="Check my other work!" link="https://mcpedl.com/player-corpse/">
