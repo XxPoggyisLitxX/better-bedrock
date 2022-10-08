@@ -6,7 +6,8 @@
 ### Bounty Scroll:
 This scroll can be found when using a bounty board which can only be found at a Trader Outpost. Once you've obtained the scroll you'll be prompted with a UI where you can do your Bounties.
 
-### ![axe](/docs/images/copper_axe.png) Copper Axe:
+### Copper Axe:
+![axe](/docs/images/copper_axe.png) 
 The Copper Axe is used just like any other axe. However it can break wooden blocks faster than stone so it's great for early game players.
 
 The following stats are for the Copper Axe:
