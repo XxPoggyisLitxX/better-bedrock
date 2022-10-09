@@ -1,5 +1,5 @@
 ::: warning
-This wiki is still being updates as the Add-On gets worked on.
+This wiki is still being updated as the Add-On gets worked on.
 :::
 
 ## Gameplay
