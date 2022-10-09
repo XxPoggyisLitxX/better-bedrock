@@ -15,9 +15,11 @@ The Copper Axe is used just like any other axe. However it can break wooden bloc
 
 The following stats are for the Copper Axe:
 <font color="lime">
+
 - 365 Durability
 - 4 Attack Damage
 - 3 Break Speed
+
 </font>
 
 
@@ -38,10 +40,12 @@ Info about the Inferno
 ::: 
 
 <font color="lime">
+
 - 500 HP
 - 4-8 Attack Damage
 - 3 Attacks
 - 2 Phases
+
 </font>
 
 ## Structures
