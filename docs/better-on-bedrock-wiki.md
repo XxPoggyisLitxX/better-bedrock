@@ -2,6 +2,8 @@
 This wiki is still being updated as the Add-On gets worked on.
 :::
 
+<p align="center">
+
 ## Gameplay
 ### Gameplay Mechanics
 
@@ -14,6 +16,7 @@ This scroll can be found when using a bounty board which can only be found at a 
 The Copper Axe is used just like any other axe. However it can break wooden blocks faster than stone so it's great for early game players.
 
 The following stats are for the Copper Axe:
+
 <font color="lime">
 
 - 365 Durability
@@ -60,14 +63,39 @@ Info about the Inferno
 
 ## Crafting
 ### Copper Category
-Copper Helmet:
+## Copper Helmet:
+
 <img src="./images/crafting-grid-copper-helmet.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
 
-Copper Chestplate:
+## Copper Chestplate:
+
 <img src="./images/crafting-grid-copper-chestplate.png"
 	alt="alternative text"
 	pixelated="true"
 	width=420> 
+
+## Copper Leggings:
+
+<img src="./images/crafting-grid-copper-leggings.png"
+	alt="alternative text"
+	pixelated="true"
+	width=420> 
+
+## Copper Boots:
+
+<img src="./images/crafting-grid-copper-boots.png"
+	alt="alternative text"
+	pixelated="true"
+	width=420> 
+
+## Chiseled Helmet:
+
+<img src="./images/smithing-table-1.png"
+	alt="alternative text"
+	pixelated="true"
+	width=420> 
+
+</p>
